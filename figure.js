@@ -260,7 +260,7 @@ var figure = {
                 4.747356779391225
             ],
             "title": {
-                "text": "Seperation Index"
+                "text": "Separation Index"
             },
             "autorange": true
         },
